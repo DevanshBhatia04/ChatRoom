@@ -17,3 +17,5 @@
 9. After that you can run it on multiple devices on the same network. 
 
 NOTE: THIS IS A MANUAL PROCESS AND WE JUST HAVE TO DO IT ON A SINGLE DEVICE, REST DEIVCE WILL USE A LINK..
+
+If your Device showing error related to the python server, then unzip the myevy file and let it provide the needs to the server.
